@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=h6p-Kt-Cx9E   - vs debugging
+
+Winsock Kernel (WSK) is a kernel-mode Network Programming Interface (NPI). With WSK,
+
+https://docs.microsoft.com/en-us/windows-hardware/drivers/network/introduction-to-winsock-kernel
+
+BOS descriptor:
+https://techcommunity.microsoft.com/t5/microsoft-usb-blog/usb-2-1-2-0-1-1-device-enumeration-changes-in-windows-8/ba-p/270775
+
+Основные сведения о языке SAL:
+https://docs.microsoft.com/ru-ru/cpp/code-quality/understanding-sal?view=msvc-160
